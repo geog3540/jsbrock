@@ -1,2 +1,2 @@
-# This is a repository for my geovisualization portfolio. 
+# This is a repository for my Geovisualization Portfolio. 
 GEOG3540/jsbrock - Jocealynn Brock
